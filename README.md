@@ -2,7 +2,7 @@
 <h3>I'm a passionate problem solver and a product guy, I have an edge to build the backend and participate in the design process as I strongly 
  believe in Discover, Build , Ideate and Define.</h3>
 
-- 🔭 I’m currently working on **ReactJs**
+- 🔭 I’m currently working on **Angulaar, ReactJs**
 
 - 🌱 I’m currently learning **Competitive Programming**
 
